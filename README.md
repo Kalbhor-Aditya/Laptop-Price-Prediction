@@ -20,6 +20,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## How to run
 1] First clone the project
+
 2] Run command streamlit run app.py
 
 
